@@ -29,3 +29,14 @@ HTML5 – Structured content
 CSS3 – Styling and animations
 
 GitHub Pages – Hosting (optional)
+
+How to Use:
+
+1. Clone the repo:   git clone https://github.com/your-username/avengers-gallery.git
+2. Open index.html in a browser.
+    Click on any hero to view their profile!
+3. Live Demo
+🔗 View on GitHub Pages (Add your link after deploying)
+
+
+
